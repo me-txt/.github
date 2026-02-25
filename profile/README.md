@@ -37,15 +37,11 @@ yoursite.com/me.txt
 npx create-me-txt
 ```
 
-### Repos
-
-| | |
-|---|---|
-| [**metxt.dev**](https://github.com/me-txt/metxt.dev) | Spec site, directory, API, and CLI |
-
 ### Links
 
+- [**metxt.dev**](https://metxt.dev) — spec, directory, and API
 - [Spec](https://metxt.dev/spec) — the full specification
 - [Directory](https://metxt.dev/directory) — browse people using me.txt
-- [Submit yours](https://metxt.dev/submit) — add yourself to the directory
+- [Submit yours](https://metxt.dev/submit) — add yourself
 - [npm](https://www.npmjs.com/package/create-me-txt) — CLI package
+- [GitHub](https://github.com/me-txt/metxt.dev) — source code
