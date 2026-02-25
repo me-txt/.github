@@ -39,13 +39,13 @@ npx create-me-txt
 
 Or tell your AI agent:
 
-> Create a me.txt file for me following the spec at metxt.dev/spec. Place it at my site root (/me.txt). Keep it concise.
+> Create a me.txt file for me following the spec at metxt.org/spec. Place it at my site root (/me.txt). Keep it concise.
 
 ### Links
 
-- [**metxt.dev**](https://metxt.dev) — spec, directory, and API
-- [Spec](https://metxt.dev/spec) — the full specification
-- [Directory](https://metxt.dev/directory) — browse people using me.txt
-- [Submit yours](https://metxt.dev/submit) — add yourself
+- [**metxt.org**](https://metxt.org) — spec, directory, and API
+- [Spec](https://metxt.org/spec) — the full specification
+- [Directory](https://metxt.org/directory) — browse people using me.txt
+- [Submit yours](https://metxt.org/submit) — add yourself
 - [npm](https://www.npmjs.com/package/create-me-txt) — CLI package
 - [GitHub](https://github.com/me-txt/metxt.dev) — source code
