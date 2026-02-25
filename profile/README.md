@@ -48,4 +48,4 @@ Or tell your AI agent:
 - [Directory](https://metxt.org/directory) — browse people using me.txt
 - [Submit yours](https://metxt.org/submit) — add yourself
 - [npm](https://www.npmjs.com/package/create-me-txt) — CLI package
-- [GitHub](https://github.com/me-txt/metxt.dev) — source code
+- [GitHub](https://github.com/me-txt/metxt.org) — source code
