@@ -37,6 +37,10 @@ yoursite.com/me.txt
 npx create-me-txt
 ```
 
+Or tell your AI agent:
+
+> Create a me.txt file for me following the spec at metxt.dev/spec. Place it at my site root (/me.txt). Keep it concise.
+
 ### Links
 
 - [**metxt.dev**](https://metxt.dev) — spec, directory, and API
